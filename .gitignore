@@ -22,3 +22,12 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 .DS_Store
 .env
 npm-debug.log
+
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
