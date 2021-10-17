@@ -1,7 +1,22 @@
 {
   "name": "dapp-sample",
+  "description": "A sample full stack dApp with React, Ethers.js, Solidity, and Hardhat",
+  "author": "Onur Kenis <onur@hypernetlabs.io>",
+  "homepage": "https://github.com/onurkenis/dapp-sample/blob/main/README.md",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
+  "private": "false",
+  "keywords": [
+    "dApp",
+    "Smart Contract",
+    "Solidity",
+    "Hardhat",
+    "Blockchain"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurkenis/dapp-sample.git"
+  },
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
